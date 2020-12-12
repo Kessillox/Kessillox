@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hola!! 👋
 
+	
+Felipe Esteban Alejandro Kessi Bustos
+fkessib@gmail.com
+Matemática y Computación | Full Stack Java Developer
+TMK & Founder ReCoders
+CEOBoss Koders Ltda
+Awaker Adviser Awakelab
 <!--
 **Kessillox/Kessillox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
